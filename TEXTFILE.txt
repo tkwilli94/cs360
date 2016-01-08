@@ -1,1 +1,3 @@
-sdljkhfjklsdf
+history > geeber.txt //The > will redirect output to the file
+
+ec2-52-89-50-214.us-west-2.compute.amazonaws.com
